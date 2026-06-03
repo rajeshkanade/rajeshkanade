@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0F9ED5&height=120&section=header&text=Rajesh%20Kanade&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=GenAI%20Engineer%20%7C%20RAG%20Pipelines%20%7C%20LangChain%20%7C%20FastAPI&descAlignY=60&descFontSize=16&descFontColor=e0f4fb" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=0F9ED5&center=true&vCenter=true&width=600&lines=Building+Production-Grade+GenAI+Systems+%F0%9F%A4%96;RAG+Pipelines+%7C+LangGraph+Agents+%7C+LLM+Apps;MERN+Stack+Developer+%7C+React+%7C+Node.js+%7C+MongoDB;MERN+Stack+AI+Developer+%7C+LLM+%2B+Full+Stack;MCA+%40+Fergusson+College+%E2%80%A2+CGPA+9.10;Open+to+GenAI+%26+Full+Stack+Roles+in+Pune+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=0F9ED5&center=true&vCenter=true&width=600&lines=Building+Production-Grade+GenAI+Systems+%F0%9F%A4%96;RAG+Pipelines+%7C+LangGraph+Agents+%7C+LLM+Apps;MERN+Stack+Developer+%7C+React+%7C+Node.js+%7C+MongoDB;MERN+Stack+AI+Developer+%7C+LLM+%2B+Full+Stack;MCA+%40+Fergusson+College+%E2%80%A2+CGPA+9.10;OpGen+to+GenAI+%26+Full+Stack+Roles+in+Pune+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -109,9 +109,6 @@ class RajeshKanade:
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rajeshkanade&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshkanade&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br/>
 
