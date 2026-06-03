@@ -126,15 +126,6 @@ class RajeshKanade:
 > **BERT-Based Fake News Detection Using NLP** — Co-authored under Prof. Kalpana Joshi, Fergusson College (Autonomous), Pune.
 > Applied BERT transformer for fake news classification achieving high accuracy on benchmark datasets. *(2025)*
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rajeshkanade&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
